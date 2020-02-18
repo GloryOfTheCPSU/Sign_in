@@ -1,0 +1,23 @@
+body{
+    padding: 40px;
+}
+form{
+    border: 5px solid darkgrey;
+    width: 90vw;
+    height: 75vh;
+    box-sizing: border-box;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+input{
+    display: flex;
+    height: 80px;
+    width: 80%;
+    max-width: 100%;
+    font-size: 38px;
+}
+input::placeholder{
+
+}
